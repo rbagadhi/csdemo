@@ -1,8 +1,8 @@
 ---
 instances: 1
-memory: 500M
+memory: 1G
 applications:
-  - name: pcf-scs-demo
+  - name: csdemo
     host: rb
     services:
       - config-server

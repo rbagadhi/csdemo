@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Messages {
 
-	@Value("${say.hi}")
+	@Value("${csdemo.hi}")
 	String hi;
 
 	public String getHi() {
