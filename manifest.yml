@@ -1,6 +1,6 @@
 ---
 instances: 1
-memory: 1G
+memory: 500M
 applications:
   - name: pcf-scs-demo
     host: rb
