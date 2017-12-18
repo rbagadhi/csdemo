@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.pcf.scs.trial</groupId>
-	<artifactId>pcf-scs-cs-demo</artifactId>
+	<artifactId>csdemo</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>pcf-scs-cs-demo</name>
+	<name>csdemo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
