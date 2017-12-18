@@ -3,7 +3,7 @@ instances: 1
 memory: 1G
 applications:
   - name: pcf-scs-demo
-    host: infy
+    host: rb
     services:
       - config-server
     env:
