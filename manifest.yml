@@ -1,0 +1,10 @@
+---
+instances: 1
+memory: 1G
+applications:
+  - name: pcf-scs-demo
+    host: infy
+    services:
+      - config-server
+    env:
+      SPRING_PROFILES_ACTIVE: dev
